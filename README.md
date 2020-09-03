@@ -14,13 +14,13 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 
 4. The Dashboard option gives the predicted value of all the global cases of the ongoing COVID-19 pandemic for updating our users.
 
-#### The machine learning model in our application predicts not only the global cases but also gives user the report about the ongoing pandemic state and district wise. 
+5. The machine learning model in our application predicts not only the global cases but also gives user the report about the ongoing pandemic state and district wise. 
 
-#### This machine learning model was effectively deployed on the server of AWS so as to perform the training and the prediction of model over the server itself. 
+6. This machine learning model was effectively deployed on the server of AWS so as to perform the training and the prediction of model over the server itself. 
 
-#### The model predicts and generates the graph of information district-wise allowing the users to view the number of deaths and status in their locality.
+7. The model predicts and generates the graph of information district-wise allowing the users to view the number of deaths and status in their locality.
 
-#### The aim of prediction is to determine what will be the situation of the pandemic locally in a user’s area and what precautions they must take in order to keep themselves safe.
+8. The aim of prediction is to determine what will be the situation of the pandemic locally in a user’s area and what precautions they must take in order to keep themselves safe.
 
 
 ## App-Flow Diagram
