@@ -10,7 +10,7 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 
 2. The read QR code option will allow the user to view the necessary details of the person whose QR code is being scanned by the former.
 
-3. The view list option allows the user to view all the handshakes or the encounters he had with others with complete details of every individual.
+3. The view list option allows the user to view all the encounters he had with others with required details of every individual.
 
 4. The Dashboard option gives the predicted value of all the global cases of the ongoing COVID-19 pandemic for updating our users.
 
