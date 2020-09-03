@@ -5,4 +5,6 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 ##### SCANOVID19 is an app-based solution that will keep the track of the number of people you encounter when you enter grocery stores, public transports, banks or any such enterprise through unique ID and QR code scanners. As a result of which if any user gets infected an alert will be sent to all those people who were in close contact of the infected person in 14 days.
 
 
+## App-Flow Diagram
+
 ![Flowchart](flowchart.png)
