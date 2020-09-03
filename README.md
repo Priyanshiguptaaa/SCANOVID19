@@ -29,7 +29,7 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 
 ## Screenshots
 
-![ss1](ss1.jpeg)
+### ![ss1](ss1.jpeg)
 
-![ss2](ss2.jpeg)
+### ![ss2](ss2.jpeg)
 
