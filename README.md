@@ -26,3 +26,10 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 ## App-Flow Diagram
 
 ![Flowchart](flowchart.png)
+
+## Screenshots
+
+![ss1](ss1.jpeg)
+
+![ss2](ss2.jpeg)
+
