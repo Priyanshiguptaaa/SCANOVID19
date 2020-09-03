@@ -6,9 +6,21 @@ COVID-19 the ongoing global pandemic has caused distress among the government of
 
 ## Features
 
-#### Generates a QR code that will produce the required code for other users to scan it and store the required information about the user in the database.
+Generates a QR code that will produce the required code for other users to scan it and store the required information about the user in the database.
 
-#### The read QR code option will allow the user to view the necessary details of the person whose QR code is being scanned by the former.
+The read QR code option will allow the user to view the necessary details of the person whose QR code is being scanned by the former.
+
+The view list option will allow the user to view all the handshakes or the encounters he had with others with complete details of every individual.
+
+The Dashboard option basically gives the predicted value of all the global cases of the ongoing COVID-19 pandemic for updating our users.
+
+#### The machine learning model in our application predicts not only the global cases but also gives user the report about the ongoing pandemic state and district wise. 
+#### This machine learning model was effectively deployed on the server of AWS so as to perform the training and the prediction of model over the server itself. 
+
+#### The model predicts and generates the graph of information district-wise allowing the users to view the number of deaths and status in their locality.
+
+#### The aim of prediction is to determine what will be the situation of the pandemic locally in a user’s area and what precautions they must take in order to keep themselves safe.
+
 
 ## App-Flow Diagram
 
